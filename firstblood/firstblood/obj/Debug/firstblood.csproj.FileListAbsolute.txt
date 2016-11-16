@@ -1,0 +1,13 @@
+C:\Users\Bartass\Documents\GitHub\eduSelenium\firstblood\firstblood\bin\Debug\firstblood.dll
+C:\Users\Bartass\Documents\GitHub\eduSelenium\firstblood\firstblood\bin\Debug\firstblood.pdb
+C:\Users\Bartass\Documents\GitHub\eduSelenium\firstblood\firstblood\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Bartass\Documents\GitHub\eduSelenium\firstblood\firstblood\bin\Debug\nunit.framework.dll
+C:\Users\Bartass\Documents\GitHub\eduSelenium\firstblood\firstblood\bin\Debug\WebDriver.dll
+C:\Users\Bartass\Documents\GitHub\eduSelenium\firstblood\firstblood\bin\Debug\WebDriver.Support.dll
+C:\Users\Bartass\Documents\GitHub\eduSelenium\firstblood\firstblood\bin\Debug\nunit.framework.xml
+C:\Users\Bartass\Documents\GitHub\eduSelenium\firstblood\firstblood\bin\Debug\WebDriver.xml
+C:\Users\Bartass\Documents\GitHub\eduSelenium\firstblood\firstblood\bin\Debug\WebDriver.Support.xml
+C:\Users\Bartass\Documents\GitHub\eduSelenium\firstblood\firstblood\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Bartass\Documents\GitHub\eduSelenium\firstblood\firstblood\obj\Debug\firstblood.csprojResolveAssemblyReference.cache
+C:\Users\Bartass\Documents\GitHub\eduSelenium\firstblood\firstblood\obj\Debug\firstblood.dll
+C:\Users\Bartass\Documents\GitHub\eduSelenium\firstblood\firstblood\obj\Debug\firstblood.pdb
