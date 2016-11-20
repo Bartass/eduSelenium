@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Управление общими сведениями о сборке осуществляется посредством следующего 
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("firstblood")]
+[assembly: AssemblyTitle("FirstBlood")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("firstblood")]
+[assembly: AssemblyProduct("FirstBlood")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Если данный проект доступен для модели COM, следующий GUID используется в качестве идентификатора библиотеки типов
-[assembly: Guid("6e26a8d7-68f1-4e2a-89a9-22033fc1e637")]
+[assembly: Guid("d2ebbb59-0a53-4a00-9c9e-018187cebd1a")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //
